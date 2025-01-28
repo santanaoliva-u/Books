@@ -1,0 +1,24 @@
+
+---
+
+### **Archivo `LICENSE`:**
+
+Te sugiero usar una licencia personalizada que indique que el repositorio es solo para fines educativos y no permite usos comerciales. Aquí tienes un ejemplo:
+
+```plaintext
+MIT License
+
+Copyright (c) 2025 Santana Oliva
+
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este repositorio y los archivos relacionados (los "Libros"), para usarlo exclusivamente con fines **educativos, personales y no comerciales**, sujeto a las siguientes condiciones:
+
+- **Restricciones:**
+  - Los libros compartidos en este repositorio son propiedad de sus respectivos autores. 
+  - No está permitido redistribuir, modificar o vender los libros sin el permiso explícito de los propietarios.
+
+- **Aviso Legal:**
+  Este repositorio se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitado a garantías de comerciabilidad o adecuación para un propósito particular.
+
+---
+
+Cualquier duda o inquietud, comunícate con el autor: Jesús Uriel Santana Oliva
